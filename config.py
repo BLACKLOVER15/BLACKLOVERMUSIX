@@ -13,15 +13,15 @@ DURATION_LIMIT = int(getenv("DURATION_LIMIT", "90"))
 
 OWNER_ID = int(getenv("OWNER_ID"))
 
-PING_IMG = getenv("PING_IMG", "https://te.legra.ph/file/9db6ae360e0a7b833abff.jpg")
-START_IMG = getenv("START_IMG", "https://te.legra.ph/file/3d0d7d23d3a7fb86b442e.jpg")
+PING_IMG = getenv("PING_IMG", "https://te.legra.ph/file/d6c8a54e2481c3b412bab.jpg")
+START_IMG = getenv("START_IMG", "https://te.legra.ph/file/d6c8a54e2481c3b412bab.jpg")
 
 SESSION = getenv("SESSION", None)
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/BRANDED_WORLD")
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/BRANDRD_BOT")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/Exampur20")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/BlackMusicSupport")
 
 SUDO_USERS = list(map(int, getenv("SUDO_USERS", "").split()))
 
-MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", "BRANDED KIGN")  
+MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", "BLACK LOVER")  
 
-FAILED = "https://te.legra.ph/file/4c896584b592593c00aa8.jpg"
+FAILED = "https://te.legra.ph/file/d6c8a54e2481c3b412bab.jpg"
