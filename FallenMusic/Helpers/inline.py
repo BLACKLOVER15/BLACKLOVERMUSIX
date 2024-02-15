@@ -48,7 +48,7 @@ buttons = InlineKeyboardMarkup(
             InlineKeyboardButton(text="☆ ᴇᴀᴅ  🥀", callback_data="end_cb"), 
         ],  
         [    
-            InlineKeyboardButton(text="☆ ʙʀᴀɴᴅᴇᴅ 🥀", user_id=config.OWNER_ID),
+            InlineKeyboardButton(text="☆ ʙʟᴀᴄᴋʟᴏᴠᴇʀ 🥀", user_id=config.OWNER_ID),
             InlineKeyboardButton(text="☆ ꜱᴜᴘᴘᴏʀᴛ​ 🥀", url=config.SUPPORT_CHAT),
         ], 
         [
@@ -71,9 +71,9 @@ pm_buttons = [
     ],
     [
         InlineKeyboardButton(
-            text="🌹 ꜱᴏᴜʀᴄᴇ  🦋", url="https://github.com/WCGKING/BRANDED-KING-MUSIC1"
+            text="🌹 ꜱᴏᴜʀᴄᴇ  🦋", url="https://t.me/saikosaiyan"
         ),
-        InlineKeyboardButton(text="🌹 ​ʙʀᴀɴᴅᴇᴅ 🦋", user_id=config.OWNER_ID),
+        InlineKeyboardButton(text="🌹 ​ʙʟᴀᴄᴋʟᴏᴠᴇʀ 🦋", user_id=config.OWNER_ID),
     ],
 ]
 
@@ -91,9 +91,9 @@ gp_buttons = [
     ],
     [
         InlineKeyboardButton(
-            text="🌹 ꜱᴏᴜʀᴄᴇ 🦋", url="https://github.com/WCGKING/BRANDED-KING-MUSIC1"
+            text="🌹 ꜱᴏᴜʀᴄᴇ 🦋", url="https://t.me/saikosaiyan"
         ),
-        InlineKeyboardButton(text="🌹 ​🇧​​🇷​​🇦​​🇳​​🇩​​🇪​​🇩​ 🦋", user_id=config.OWNER_ID),
+        InlineKeyboardButton(text="🌹 ​‌🇧‌‌‌🇱‌‌🇦‌‌🇨‌‌🇰‌ 🦋", user_id=config.OWNER_ID),
     ],
 ]
 
@@ -107,7 +107,7 @@ helpmenu = [
     ],
     [
         InlineKeyboardButton(text="🌹 ꜱᴜᴅᴏ 🦋", callback_data="fallen_cb sudo"),
-        InlineKeyboardButton(text="🌹 ​ʙʀᴀɴᴅᴇᴅ 🦋", callback_data="fallen_cb owner"),
+        InlineKeyboardButton(text="🌹 ​ʙʟᴀᴄᴋʟᴏᴠᴇʀ 🦋", callback_data="fallen_cb owner"),
     ],
     [
         InlineKeyboardButton(text="🌹 ʙᴀᴄᴋ 🦋", callback_data="fallen_home"),
