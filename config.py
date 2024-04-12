@@ -17,7 +17,7 @@ PING_IMG = getenv("PING_IMG", "https://te.legra.ph/file/d6c8a54e2481c3b412bab.jp
 START_IMG = getenv("START_IMG", "https://te.legra.ph/file/d6c8a54e2481c3b412bab.jpg")
 
 SESSION = getenv("SESSION", None)
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/Exampur20")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/SSC_MAKER_QUIZ")
 SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/BlackMusicSupport")
 
 SUDO_USERS = list(map(int, getenv("SUDO_USERS", "").split()))
